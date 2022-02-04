@@ -1,0 +1,66 @@
+{
+    "NOTICE_0": "Removing anything in here may result in Akins not working properly,",
+    "NOTICE__0": "please only edit this file if you know what you are doing.",
+
+    "editor": {
+        "background": "#191919",
+        "default_color": "#fff",
+        "font": {
+            "font_family": "Lucida Sans Unicode",
+            "font_size": 12,
+            "slant": "roman",
+            "font_weight": "normal",
+            "underlined": false,
+            "strikethrough": false
+        }
+    },
+
+    "languages": {
+        "python": {
+            "comment": {
+                "color": "#007fff",
+                "background": "#191919"
+            },
+
+            "keyword": {
+                "color": "#82b2ff",
+                "background": "#191919"
+            },
+
+            "builtin": {
+                "color": "#cf82ff",
+                "background": "#191919"
+            },
+
+            "string": {
+                "color": "#b0ff9e",
+                "background": "#191919"
+            },
+
+            "definition": {
+                "color": "#2e8720",
+                "background": "#191919"
+            },
+
+            "sync": {
+                "color": "#87dbff",
+                "background": "#191919"
+            },
+
+            "todo": {
+                "color": "#288028",
+                "background": "#191919"
+            },
+
+            "error": {
+                "color": "#fff",
+                "background": "#ff0d00"
+            },
+
+            "hit": {
+                "color": "#efff87",
+                "background": "#191919"
+            }
+        }
+    }
+}
